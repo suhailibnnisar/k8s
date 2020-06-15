@@ -1,6 +1,8 @@
 {
   "cSpell.words": [
     "CLOUDSDK",
-    "gcloud"
+    "certmanager",
+    "gcloud",
+    "letsencrypt"
   ]
 }

@@ -3,6 +3,7 @@
     "CLOUDSDK",
     "certmanager",
     "gcloud",
-    "letsencrypt"
+    "letsencrypt",
+    "skaffold"
   ]
 }
